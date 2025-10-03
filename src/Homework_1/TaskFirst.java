@@ -8,6 +8,7 @@ public class TaskFirst {
         //вычисление значения a по формуле
         int a=4*(b+c-1)/2;
         //выводим значение а b с
+        //добавил комментарий просто попробовать GIT
         System.out.println("При b="+b+" и c="+c);
         System.out.println("Значение a=4*(b+c-1)/2="+a);
     }
